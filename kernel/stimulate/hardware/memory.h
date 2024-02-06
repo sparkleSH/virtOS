@@ -6,5 +6,4 @@
 #define MEMORY_SIZE 1024
 char memory[MEMORY_SIZE];
 #define OSLABS_MEMORY_H
-
 #endif //OSLABS_MEMORY_H
